@@ -1,0 +1,22 @@
+{
+  "name": "imgur-api",
+  "version": "1.0.0",
+  "description": "API to help using IMGUR",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdDeAlmeidaJr/imgur-api.git"
+  },
+  "keywords": [
+    "imgur"
+  ],
+  "author": "Ed de Almeida",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/EdDeAlmeidaJr/imgur-api/issues"
+  },
+  "homepage": "https://github.com/EdDeAlmeidaJr/imgur-api#readme"
+}
